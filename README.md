@@ -1,1 +1,1 @@
-# Ender-Prison.github.io
+# EnderPrison.github.io
